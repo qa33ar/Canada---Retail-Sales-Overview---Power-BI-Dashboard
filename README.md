@@ -1,6 +1,5 @@
 ## Canada---Retail-Sales-Overview---Power-BI--Dashboard
-# Courteous request! Whenever anyone views or downloads any of my work, kindly spare a minute to give
-# a few words so I can improve my work.#
+# Courteous request! Whenever anyone views or downloads any of my work, kindly spare a minute to give a few words so I can improve my work.#
 
 Retail sales amounts of Canadian provinces and territories over 9 recent years are visualized in
 Power BI Dashboard. 
@@ -49,7 +48,9 @@ in its raw form. There are more regions included in this dataset than just the n
 and territories in Canada. The examples of such regions are Toronto, Ontario and Edmonton, Alberta 
 and Montreal, Quebec. These regions are simply the sub-regions of actual regions.  All the actual 
 regions are also the sub-regions of Canada, which is also shown as single region. This makes the total
-number of regions and sub-regions equal to 23. However, the measures and other calculations will be 
+number of regions and sub-regions equal to 23.
+
+However, the measures and other calculations will be 
 applied only on actual regions. The units used for the amount from trade sales are Dollars and the 
 associated values are scaled down by 1000 times as given in the title. The data quality levels are 
 also labelled using alphabet A to F, A being the most accurate or of excellent quality. 
@@ -103,38 +104,38 @@ tab with column profile which helps to easily view detailed information of a tab
 
 # 🔎 Answers to the questions asked.
 
-1. How have total retail sales trended monthly/yearly from 2017 to mid-2026, and is there a visible
-2.  seasonal pattern?
+Q1. How have total retail sales trended monthly/yearly from 2017 to mid-2026, and is there a visible
+ seasonal pattern?
 Visual 1 displays the total retail sales have been gradually rising for the years from 2017 to mid-2026.
  The overall retails has reached to 21.05 billion dollars till June 2026. The sales by individual years
 can be seen in Total Retail Sales KPI by applying yearly selections in the year slicer. For example, in
 2017, the total retail sales were equal to 1.87 billion, then it kept gradually increasing till the end
-    of June 2026.
+ of June 2026.
 However, the monthly trend of total retail sales is almost the same each year of the period. Every year,
  the trend consistently remains the same with an exception of April 2020. Generally, the sales begins
 slowly from January, then gradually rises in February. After that from March till December, the highs
 and lows become very smooth.  
-4. How does e-commerce retail sales compare to total retail sales over time — is e-commerce's share growing?
+Q2. How does e-commerce retail sales compare to total retail sales over time — is e-commerce's share growing?
 It can be seen in visual 2 that e-commerce retails are negligible compared to total retail sales over all the
  months. They differ roughly by multi-folds throughout this period. Using Sales slicer, it can also be seen
 that, 2025 has the highest e-commerce sales which barely reaches 119 million. On the other hand, the lowest
 e-commerce sales are in 2017 that is under 32 million. It, however, has a rising trend over the years. The
  overall trend of both categories of sales can be considered the same, however, the scale of retail sales
 amount are dramatically different.
-6. Which provinces/regions have the highest and the lowest retail sales, and how does that ranking hold up
-7.  over time? 
+Q3. Which provinces/regions have the highest and the lowest retail sales, and how does that ranking hold up
+ over time? 
 The ranking is established over all Canadian provinces and territories in visual 3. The highest and the lowest
  retail sales have been very consistent over the given period. Ontario, Quebec and British Colombia are
 consistently the top 1, 2 and 3 regions respectively. The overall Ontario’s sales reach about 8 billion
 whereas Nunavut represents the lowest rank with 13 million of sales.
-9. Are there specific periods (e.g., 2020) where sales patterns broke from the norm, and how visible is
-10. that in adjusted vs. unadjusted data?
+Q4. Are there specific periods (e.g., 2020) where sales patterns broke from the norm, and how visible is
+ that in adjusted vs. unadjusted data?
 As mentioned above, every January and February are slower than the other months which are seasonal trends
 as they can be seen consistently throughout the period. However, April 2020 is the most unusual dip in the
  pattern. With the use of Data form slicer, seasonally adjusted filter displays the overall trend more
 smoothly. Under this setting, the seasonal dips of January and February are diminished resulting in the
  even more prominent unusual dip around April 2020. 
-12. What's the most recent month's performance compared to the same month a year prior?
+Q5. What's the most recent month's performance compared to the same month a year prior?
 The most recent month would be June of 2026. The comparison of the performances of the most recent month
  and the same month in the prior year can be displayed Total Retail Amount by selecting specific months.
  In the most recent month, the retail sales amount is 235.94 million whereas the retails sales amount in
@@ -152,6 +153,6 @@ In case of Cannabis industry, the overall trend shows much more prominent rise f
  Alberta beats both British Colombia and Quebec here and becomes second highest retail sales amount
 generator.
 Dashboard is free to use to explore more insights of the dataset from industry viewpoint or any other
-perspective.
+perspective. More detailed document is attached as pdf.
 
 
