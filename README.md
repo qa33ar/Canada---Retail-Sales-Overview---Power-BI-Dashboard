@@ -93,11 +93,11 @@ A few snaps from the dashboard are given below:
 ## Main Dashboard
 ![Dashboard](main%20dashboard.PNG)
 
-## Seasonally adjusted trend
-![Seasonally Adjusted trend](seasonally%20adjusted%20trend.PNG)
+## Seasonally Adjusted Trend
+![Seasonally Adjusted Trend](seasonally%20adjusted%20trend.PNG)
 
 ## Cannabis Sales
-![Cannabis Sales](Cannabis%20salesPNG)
+![Cannabis Sales](Cannabis%20sales.PNG)
 
 ------------------------------------------------------------------------
 
