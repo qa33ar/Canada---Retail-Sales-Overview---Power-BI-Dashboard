@@ -1,6 +1,6 @@
 ## Canada---Retail-Sales-Overview---Power-BI--Dashboard
 # Courteous request! Whenever anyone views or downloads any of my work, kindly spare a minute to give
-a few words so I can improve my work.#
+# a few words so I can improve my work.#
 
 Retail sales amounts of Canadian provinces and territories over 9 recent years are visualized in
 Power BI Dashboard. 
