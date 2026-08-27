@@ -88,8 +88,7 @@ and legend displays details of calculations employed.
 
 # 📷 Dashboard Preview
 
-Some snaps from the dashboard and work process are shown here. The top left depicts the Transform
-tab with column profile which helps to easily view detailed information of a table. 
+A few snaps from the dashboard are given below:
 
 ## Main Dashboard
 ![Dashboard](main%20dashboard.PNG)
