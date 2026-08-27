@@ -114,7 +114,8 @@ can be seen in Total Retail Sales KPI by applying yearly selections in the year 
 However, the monthly trend of total retail sales is almost the same each year of the period. Every year,
  the trend consistently remains the same with an exception of April 2020. Generally, the sales begins
 slowly from January, then gradually rises in February. After that from March till December, the highs
-and lows become very smooth.  
+and lows become very smooth.
+
 Q2. How does e-commerce retail sales compare to total retail sales over time — is e-commerce's share growing?
 It can be seen in visual 2 that e-commerce retails are negligible compared to total retail sales over all the
  months. They differ roughly by multi-folds throughout this period. Using Sales slicer, it can also be seen
@@ -122,12 +123,14 @@ that, 2025 has the highest e-commerce sales which barely reaches 119 million. On
 e-commerce sales are in 2017 that is under 32 million. It, however, has a rising trend over the years. The
  overall trend of both categories of sales can be considered the same, however, the scale of retail sales
 amount are dramatically different.
+
 Q3. Which provinces/regions have the highest and the lowest retail sales, and how does that ranking hold up
  over time? 
 The ranking is established over all Canadian provinces and territories in visual 3. The highest and the lowest
  retail sales have been very consistent over the given period. Ontario, Quebec and British Colombia are
 consistently the top 1, 2 and 3 regions respectively. The overall Ontario’s sales reach about 8 billion
 whereas Nunavut represents the lowest rank with 13 million of sales.
+
 Q4. Are there specific periods (e.g., 2020) where sales patterns broke from the norm, and how visible is
  that in adjusted vs. unadjusted data?
 As mentioned above, every January and February are slower than the other months which are seasonal trends
@@ -135,6 +138,7 @@ as they can be seen consistently throughout the period. However, April 2020 is t
  pattern. With the use of Data form slicer, seasonally adjusted filter displays the overall trend more
 smoothly. Under this setting, the seasonal dips of January and February are diminished resulting in the
  even more prominent unusual dip around April 2020. 
+
 Q5. What's the most recent month's performance compared to the same month a year prior?
 The most recent month would be June of 2026. The comparison of the performances of the most recent month
  and the same month in the prior year can be displayed Total Retail Amount by selecting specific months.
